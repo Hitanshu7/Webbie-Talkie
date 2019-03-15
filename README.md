@@ -4,9 +4,7 @@ Web Application which allows multiple users to communicate live through a group 
 
 - Multi-User Audio/Video Communication
 - Text Chat
-- Screen Sharing
 - Annotation
-- Provision to record the call and archive it
 - Provision to mute video/audio
 - Uses UDP protocol
 
