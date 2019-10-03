@@ -2,11 +2,14 @@
 Web Application which allows multiple users to communicate live through a group video call,audio call and also group chat
 ## Features
 
-- Multi-User Audio/Video Communication
+- Multi-Party Audio/Video Communication
 - Text Chat
+- Screen Sharing
 - Annotation
+- Provision to record the call and archive it
 - Provision to mute video/audio
 - Uses UDP protocol
+
 
 ## Setup
 
